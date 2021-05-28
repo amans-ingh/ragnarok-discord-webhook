@@ -1,0 +1,25 @@
+Match No.,Day,Time,Team 1,Team 2,Server,Winner,Score,Referee,map,mvp
+1,1,5,Delhi CS,Furious 5,Node 1,Delhi CS,16 � 0,Freddy,Mirage,Dexter
+2,2,11,N3XT,Mindtricks,Node 2,Mindtricks,16 � 7,thomman,Mirage,Suspect
+3,1,6,MAG,Furious 5,Node 3,MAG,16 � 0,Freddy,Inferno,DANTE GOD
+4,1,6,Delhi CS,N3XT,Node 4,Delhi CS,16 � 3,thomman,Inferno,ffJOJI
+5,1,7,Team Strix,ADRENO-RED,Node 1,Team Strix,16 � 12,ajoy,Overpass,Sketch
+6,1,7,Alan & Friends,Team FL4RE,Node 2,Team FL4RE,16 � 13,dragder,Dust 2,T0taLiTy
+7,1,8,Alan & Friends,MERC1S,Node 3,MERC1S,16 � 11,dragder,Inferno,rofiter
+8,1,8,ADRENO-RED,Team FL4RE,Node 4,Team FL4RE,16 � 7,Freddy,Mirage,Exia(Yuvi)
+9,2,5,MAG,Mindtricks,Node 1,Mindtricks,16 � 8,thomman,Inferno,KILLSHOT
+10,3,4,Furious 5,N3XT,Node 2,Furious 5,Forfeit,freddy,None,None
+11,2,6,MAG,N3XT,Node 3,MAG,16 � 9,ajoy,Inferno,DANTE GOD
+12,3,3,Mindtricks,Delhi CS,Node 4,Delhi CS,16 � 1,ajoy,Mirage,DMT
+13,2,7,Alan & Friends,Team Strix,Node 1,Team Strix,16 � 12,dragder,Inferno,SnappierSoap
+14,2,7,ADRENO-RED,MERC1S,Node 2,MERC1S,19 � 16,freddy,Inferno,EliteBonga
+15,2,8,MERC1S,Team Strix,Node 3,Team Strix,16 � 12,freddy,Mirage,LMN
+16,2,8,Alan & Friends,ADRENO-RED,Node 4,Alan & Friends,16 � 7,thomman,Dust 2,hyp3r
+17,3,5,MAG,Delhi CS,Node 1,Delhi CS,16 � 3,thomman,Train,Dexter
+18,3,6,Mindtricks,Furious 5,Node 2,Mindtricks,16 � 0,thomman,Mirage,KILLSHOT
+19,3,7,MERC1S,Team FL4RE,Node 1,Team FL4RE,19 � 17,freddy,Inferno,rofiter
+20,3,8,Team FL4RE,Team Strix,Node 2,Team Strix,19 � 17,freddy,Dust 2,SnappierSoap
+21,4,2,Delhi CS,Team FL4RE,Node 1,Delhi CS,2 � 0,thomman,Mirage � Inferno,Dexter
+22,4,2,Team Strix,MAG,Node 2,Team Strix,2 � 1,ajoy,Vertigo � Dust 2 � Train,SnappierSoap
+23,4,12,MAG,Team FL4RE,Node 3,MAG,16 � 12,thomman,Inferno,MIA
+24,4,8,Delhi CS,Team Strix,Node 1,Delhi CS,2 - 0,ajoy,Mirage - Inferno,joji
